@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER jrstarke <docker@jamiestarke.com>
+# MAINTAINER jrstarke <docker@jamiestarke.com>
 
 USER root
 
